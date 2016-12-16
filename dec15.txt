@@ -1,1 +1,9 @@
 BAiley 
+grrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+confused as  a cranberry but me and my fake dog, i need a name for him. what should it be? wh=ait off topic. We survived, somehow. well lets see what tomorrow is like.
+git init
+git add READ.ME
+git status
+git add dec15.txt
+git commit -m "Inital commit"
+git remote addd org=igin https://github.com/Ch1b1k0/jrDevLeague-notes.git
